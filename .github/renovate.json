@@ -1,5 +1,5 @@
 {
   "extends": ["config:base", "group:allNonMajor"],
-  "lockfileMaintenance": true,
+  "lockFileMaintenance": true,
   "npmrc": "always-auth=true\nsave-exact=true\n@alexandernanberg:registry=https://npm.pkg.github.com"
 }
