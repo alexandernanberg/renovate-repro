@@ -2,7 +2,7 @@
   "name": "renovate-repro",
   "private": true,
   "dependencies": {
-    "@alexandernanberg/renovate-repro-pkg": "1.0.0",
-    "react": "17.0.0"
+    "@alexandernanberg/renovate-repro-pkg": "1.1.0",
+    "react": "17.0.2"
   }
 }
