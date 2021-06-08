@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@alexandernanberg/renovate-repro-pkg@1.0.0":
-  version "1.0.0"
-  resolved "https://npm.pkg.github.com/download/@alexandernanberg/renovate-repro-pkg/1.0.0/a37ceb9d0b6878ffffdc4770c55708a081cea1141467d6a3d8ede096e38d4510#f3972187bd62461518f81c97b386a9e40835c244"
-  integrity sha512-0Lr4c3Kl0Lh1wE2LzMrEmotV0+Fr6qJjloemok4ZYGIhb2fGlQgnUxR9fatWABE9RuJNlckwiSj1bsi7agXwxQ==
+"@alexandernanberg/renovate-repro-pkg@1.1.0":
+  version "1.1.0"
+  resolved "https://npm.pkg.github.com/download/@alexandernanberg/renovate-repro-pkg/1.1.0/1606023cf830f78f739e7ed71065a5edf455d78b85710a1cb4b793aec699283d#bfd9dd672c1cd5805e127b36fd09e0812735434a"
+  integrity sha512-V7mkSEhgNKly32ZEpq8Cw8SW7liIuiACvWiHBqgkX3r1OOS1Q5HUbjTmH3C2s9+EWmmDl2b/KyEf47ASchO5fw==
 
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
@@ -24,10 +24,10 @@ object-assign@^4.1.1:
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=
 
-react@17.0.0:
-  version "17.0.0"
-  resolved "https://registry.yarnpkg.com/react/-/react-17.0.0.tgz#ad96d5fa1a33bb9b06d0cc52672f7992d84aa662"
-  integrity sha512-rG9bqS3LMuetoSUKHN8G3fMNuQOePKDThK6+2yXFWtoeTDLVNh/QCaxT+Jr+rNf4lwNXpx+atdn3Aa0oi8/6eQ==
+react@17.0.2:
+  version "17.0.2"
+  resolved "https://registry.yarnpkg.com/react/-/react-17.0.2.tgz#d0b5cc516d29eb3eee383f75b62864cfb6800037"
+  integrity sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA==
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
