@@ -1,0 +1,7 @@
+{
+  "name": "renovate-repro",
+  "private": true,
+  "dependencies": {
+    "react": "17.0.0"
+  }
+}
