@@ -1,5 +1,8 @@
 {
   "extends": ["config:base", "group:allNonMajor"],
   "lockFileMaintenance": true,
-  "npmrc": "always-auth=true\nsave-exact=true\n@alexandernanberg:registry=https://npm.pkg.github.com"
+  "npmrc": "always-auth=true\nsave-exact=true\n@alexandernanberg:registry=https://npm.pkg.github.com\n//npm.pkg.github.com/:_authToken=${NPM_TOKEN}",
+  "encrypted": {
+    "npmToken": "B8qFMaeLJ+Eyr5F+xPY7jkiJSzvnf4dHa3+mB2Tk7m3Ops5QiCNT2u6HE8Mw4iqmvSXX5cV9F3PJBfzkDAEgOA+CgDQkRWhcNxx9N/kswGyKV61qwPABMisB+4muHJ6zN5lXz0QQeUlc0EBVed5lY/h2FVbUVh65fq3z5tZZ4V+TwkVgyol1+7kG9ncCDYs4O0ntW2Onx77Wo7ox+MRO+NZeF/PKWKUS47j4LcF7uy/4R6Wc3cs2B0K6Pjww86nQYI/z7woo1CX6jGuWkuvSzffBCOkfmqd5jC2oOaqsLUx1dxL1NcUQ1k3Vba6RUXWDfZLCCGJJ0Ff3CNJyD0ObKg=="
+  }
 }
